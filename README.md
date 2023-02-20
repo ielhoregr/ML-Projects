@@ -1,1 +1,1 @@
-# ML-Projects-Rock-VS-Mine-predection
+# ML-Projects
